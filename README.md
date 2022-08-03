@@ -1,6 +1,9 @@
 # EngPot English
 
-<img src="media/EngPotLogoDark.jpg" alt="EngPot Logo Dark"/>
+<p align="center">
+  <img src="media/logo/EngPotLogo.png" alt="EngPot Logo">
+</p>
+
 
 <br>
 <br>
@@ -19,7 +22,7 @@
 
 <br>
 
-    1. Which technologies is used to develop EngPot English?
+    3. Which technologies is used to develop EngPot English?
 * JavaScript Programming Language
 * Node JS 
 * Express JS
@@ -122,3 +125,4 @@ There are many technologies behind the scenes, for the main ones:
 `The most challenging aspect of a full-stack application may be rendering actual context for our users. There are a lot of features to be handled unless you use a ready template. We have decided not to use a ready template, instead, we have developed all the skeleton and styling of EngPot English.`
 
 `EJS (Embedded JavaScript Template Engine) is a marvelous library that enable its users to generate HTML content rather easily. We have employed EJS for our application.`
+
