@@ -14,7 +14,7 @@ In order to sign up, you need:
         "password": "******",
 
         "confirmPassword": "******"
-    };
+    }
 ```
 
 <br>
@@ -41,7 +41,7 @@ Enter your account information to sign in.
         "email": "dummy-email@mail.com",
 
         "password": "******",
-    };
+    }
 ```
 
 <br>
@@ -78,3 +78,6 @@ What you can do here:
 </p>
 
 <br>
+<br>
+
+[Go Back](../README.md)

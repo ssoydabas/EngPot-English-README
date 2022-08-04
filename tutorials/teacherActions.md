@@ -110,3 +110,8 @@ In Teacher Page, you can display:
 </p>
 
 > You can mark your student's assignment if he/she has completed it.
+
+<br>
+<br>
+
+[Go Back](../README.md)

@@ -17,8 +17,9 @@
 <br>
 
     2. Functionalities
-1. For Students
-2. For Teachers
+1. Authentication Actions
+2. For Students - student actions
+3. For Teachers - teacher actions
 
 <br>
 
@@ -60,6 +61,14 @@ In EngPot English, you can improve the quality of teaching process, and you can 
 
 <br>
 
+1. ### For Users in General
+As a new user on EngPot English:
+* You can sign up, sign in, confirm your account, and reset your password.
+
+* You may find more information in Engpot English Tutorials.
+
+[User Tutorial](./tutorials/authActions.md)
+
 1. ### For Students:
 As a student on EngPot English:
 * You can keep track of your previous lessons with your personal tutor.
@@ -69,9 +78,11 @@ As a student on EngPot English:
   
 * You can play games intending to help you learn English, and by playing these games, you earn prizes like a free speaking lesson, or even a free lesson every month.
 
+[Student Tutorial](./tutorials/studentActions.md)
+
 <br>
 
-2. ### For Teachers:
+1. ### For Teachers:
 As a teacher on EngPot English:
 * You can plan your lessons and speaking lessons(if you do speaking lessons of course) with your students.
 * You can conclude your lessons and speaking lessons. After concluding, your lesson time and topics will be stored in our database so that you and your teacher will always be able to revise them to remind yourselves.
@@ -79,6 +90,8 @@ As a teacher on EngPot English:
 * After them completing their homework, you will be notified and you will be able to grade them, with a little side note to contribute their learning process.
 
 * You can manage your payments with our carefully tailored system. While you will be able to be paid by EngPot English in the future(if preferred of course), you need to contact us after getting your payment so that your students' credits can be loaded to their accounts.
+
+[Teacher Tutorial](./tutorials/teacherActions.md)
 
 <br>
 <br>

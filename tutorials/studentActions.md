@@ -42,20 +42,6 @@ In Student Page, you can display:
 ---
 
 <br>
-<br>
-
-`Assignments`
-<p align="center">
-  <img src="../media/tutorials/Student/studentPage2.png" alt="EngPot Logo" width=70%>
-</p>
-
-> You can display your previous assignments.
-
-<br>
-
----
-
-<br>
 
 
 ## Display and Complete Assignments
@@ -71,6 +57,16 @@ You can display:
         "answerText": "StudentAnswer...",
     }
 ```
+
+<br>
+<br>
+
+`Assignments`
+<p align="center">
+  <img src="../media/tutorials/Student/studentPage2.png" alt="EngPot Logo" width=70%>
+</p>
+
+> You can display your previous assignments.
 
 <br>
 
@@ -99,14 +95,14 @@ You can display:
 
 <br>
 
----
-
-<br>
-<br>
-
 `Display Teacher Response`
 <p align="center">
   <img src="../media/tutorials/Student/studentPageMarkedAssignment2.png" alt="EngPot Logo" width=70%>
 </p>
 
 > After your teacher marks it, you can see his/her response.
+
+<br>
+<br>
+
+[Go Back](../README.md)
