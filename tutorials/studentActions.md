@@ -1,5 +1,9 @@
 # EngPot English - Student Actions
 
+<p align="center">
+  <img src="../media/logo/EngPotLogo.png" alt="EngPot Logo" width=30%>
+</p>
+
 ## Student Page
 In Student Page, you can display:
 

@@ -17,9 +17,9 @@
 <br>
 
     2. Functionalities
-1. Authentication Actions
-2. For Students - student actions
-3. For Teachers - teacher actions
+1. Authentication Actions - [User Tutorial](./tutorials/authActions.md)
+2. For Students - student actions - [Student Tutorial](./tutorials/studentActions.md)
+3. For Teachers - teacher actions - [Teacher Tutorial](./tutorials/teacherActions.md)
 
 <br>
 

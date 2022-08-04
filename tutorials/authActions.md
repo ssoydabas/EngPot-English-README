@@ -1,7 +1,10 @@
 # EngPot English - Auth Actions
 
-## Sign Up
+<p align="center">
+  <img src="../media/logo/EngPotLogo.png" alt="EngPot Logo" width=30%>
+</p>
 
+## Sign Up
 In order to sign up, you need:
 ``` json
     {

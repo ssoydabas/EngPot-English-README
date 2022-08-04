@@ -1,5 +1,9 @@
 # EngPot English - Teacher Actions
 
+<p align="center">
+  <img src="../media/logo/EngPotLogo.png" alt="EngPot Logo" width=30%>
+</p>
+
 ## Teacher Page
 In Teacher Page, you can display:
 
