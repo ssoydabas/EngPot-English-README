@@ -36,6 +36,10 @@ In Teacher Page, you can display:
 
 <br><br>
 
+---
+
+<br><br>
+
 <code>Initial Teacher Page</code>
 
 <br>
