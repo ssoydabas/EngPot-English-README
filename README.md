@@ -1,37 +1,3 @@
-<style>
-    * {
-        color: #fff;
-    }
-
-    a {
-        color: #fff;
-
-        text-decoration: none !important;
-    }
-
-    a.yellow {
-        margin-left: 1rem;
-        color: #FAED26;
-
-        font-size: inherit;
-
-    }
-
-    h3 {
-        font-weight:bold;
-    }
-
-</style>
-
-
-
-
-
-
-
-
-
-
 <h1>EngPot English</h1>
 
 <p align="center">
