@@ -1,11 +1,16 @@
-# EngPot English - Student Actions
+<h1>EngPot English - Student Actions</h1>
 
 <p align="center">
   <img src="../media/logo/EngPotLogo.png" alt="EngPot Logo" width=30%>
 </p>
 
-## Student Page
+<br><br>
+
+<h1>Student Page</h1>
+
 In Student Page, you can display:
+
+<br>
 
 ```json
     {
@@ -33,23 +38,28 @@ In Student Page, you can display:
 <br>
 <br>
 
-`Previous Lessons`
+<code>Previous Lessons</code>
+
+<br>
+
 <p align="center">
   <img src="../media/tutorials/Student/studentPage.png" alt="EngPot Logo" width=70%>
 </p>
 
-> You can display your previous lessons with relevant information.
-
-<br>
 <br>
 
----
+<pre>You can display your previous lessons with relevant information.</pre>
 
-<br>
+<br><br>
 
 
-## Display and Complete Assignments
+
+
+<h1>Display and Complete Assignments</h1>
+
 You can display:
+
+<br><br>
 
 ```json
     {
@@ -62,15 +72,15 @@ You can display:
     }
 ```
 
-<br>
-<br>
+<br><br>
 
-`Assignments`
+<code>Assignments</code>
+
 <p align="center">
   <img src="../media/tutorials/Student/studentPage2.png" alt="EngPot Logo" width=70%>
 </p>
 
-> You can display your previous assignments.
+<pre>You can display your previous assignments.</pre>
 
 <br>
 
@@ -80,33 +90,32 @@ You can display:
   <img src="../media/tutorials/Student/studentPageDoHomework.png" alt="EngPot Logo" width=70%>
 </p>
 
-> If you have not done one yet, you can complete it.
+<pre>If you have not done one yet, you can complete it.</pre>
+
+<br><br>
+
+<code>Display Teacher Response</code>
 
 <br>
-<br>
 
----
-
-<br>
-<br>
-
-`Display Teacher Response`
 <p align="center">
   <img src="../media/tutorials/Student/studentPageMarkedAssignment.png" alt="EngPot Logo" width=70%>
 </p>
 
-> After your teacher marks it, you can see his/her response.
+<pre>After your teacher marks it, you can see his/her response.</pre>
 
 <br>
 
-`Display Teacher Response`
+<code>Display Teacher Response</code>
+
+<br>
+
 <p align="center">
   <img src="../media/tutorials/Student/studentPageMarkedAssignment2.png" alt="EngPot Logo" width=70%>
 </p>
 
-> After your teacher marks it, you can see his/her response.
+<pre>After your teacher marks it, you can see his/her response.</pre>
 
-<br>
 <br>
 
 [Go Back](../README.md)

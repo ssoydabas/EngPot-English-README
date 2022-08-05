@@ -1,11 +1,14 @@
-# EngPot English - Auth Actions
+<h1>EngPot English - Auth Actions</h1>
 
 <p align="center">
-  <img src="../media/logo/EngPotLogo.png" alt="EngPot Logo" width=30%>
+  <img src="../media/logo/EngPotLogo.png" alt="EngPot Logo" width=20%>
 </p>
 
-## Sign Up
+<h1>Sign Up</h1>
 In order to sign up, you need:
+
+<br>
+
 ``` json
     {
         "name": "Sertan",
@@ -20,7 +23,7 @@ In order to sign up, you need:
     }
 ```
 
-<br>
+<br><br>
 
 <p align="center">
   <img src="../media/tutorials/Auth/signUpPage.png" alt="EngPot Logo" width=70%>
@@ -28,15 +31,13 @@ In order to sign up, you need:
 
 <br>
 
-> Please note that you need to confirm your account after signing up. You can use the mail you receive to confirm your account.
+<pre>Please note that you need to confirm your account after signing up. You can use the mail you receive to confirm your account.</pre>
+
+<br><br>
+
+<h1>Sign In</h1>
 
 <br>
-
---- 
-
-<br>
-
-## Sign In
 
 Enter your account information to sign in.
 ``` json
@@ -47,19 +48,17 @@ Enter your account information to sign in.
     }
 ```
 
-<br>
+<br><br>
 
 <p align="center">
   <img src="../media/tutorials/Auth/signInPage.png" alt="EngPot Logo" width=70%>
 </p>
 
+<br><br>
+
+<h1>User Page</h1>
+
 <br>
-
----
-
-<br>
-
-## User Page
 
 You can navigate yourself to your account page by clicking user account icon at the very bottom of navigation bar.
 
@@ -67,11 +66,11 @@ You can navigate yourself to your account page by clicking user account icon at 
 
 What you can do here:
 
-1. **Edit Name and Surname**
+- **Edit Name and Surname**
  
-2. **Request a password change**
+- **Request a password change**
 
-3. **Add a profile picture**
+- **Add a profile picture**
 
 
 <br>
@@ -80,7 +79,6 @@ What you can do here:
   <img src="../media/tutorials/Auth/userPage.png" alt="EngPot Logo" width=70%>
 </p>
 
-<br>
-<br>
+<br><br>
 
 [Go Back](../README.md)

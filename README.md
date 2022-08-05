@@ -107,7 +107,7 @@
 
 <h1 id="h1-what-is-engpot-english">What is EngPot English?</h1>
 
-&nbsp;&nbsp;&nbsp;&nbsp;EngPot English is an English Learning Platform for both the students who want to improve their English Language, and for the teachers who work as a freelancer. We are very well aware that learning and teaching English may be challenging from time to time. That is why, we do have a vision as EngPot English.
+EngPot English is an English Learning Platform for both the students who want to improve their English Language, and for the teachers who work as a freelancer. We are very well aware that learning and teaching English may be challenging from time to time. That is why, we do have a vision as EngPot English.
 
 <br>
 
