@@ -52,8 +52,9 @@ In Student Page, you can display:
 
 <br><br>
 
+---
 
-
+<br><br>
 
 <h1>Display and Complete Assignments</h1>
 
@@ -74,6 +75,10 @@ You can display:
 
 <br><br>
 
+---
+
+<br><br>
+
 <code>Assignments</code>
 
 <p align="center">
@@ -82,8 +87,11 @@ You can display:
 
 <pre>You can display your previous assignments.</pre>
 
-<br>
+<br><br>
 
+---
+
+<br><br>
 
 `Do Assignment`
 <p align="center">
@@ -91,6 +99,10 @@ You can display:
 </p>
 
 <pre>If you have not done one yet, you can complete it.</pre>
+
+<br><br>
+
+---
 
 <br><br>
 
@@ -104,7 +116,11 @@ You can display:
 
 <pre>After your teacher marks it, you can see his/her response.</pre>
 
-<br>
+<br><br>
+
+---
+
+<br><br>
 
 <code>Display Teacher Response</code>
 

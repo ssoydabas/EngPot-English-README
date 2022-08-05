@@ -68,6 +68,10 @@ In Teacher Page, you can display:
 
 <br><br>
 
+---
+
+<br><br>
+
 <code>Plan or Conclude Lessons</code>
 
 <br>
@@ -78,7 +82,13 @@ In Teacher Page, you can display:
 
 <br>
 
-<pre>You can plan a lesson with your student. You need to store your topics and lesson time to plan it. You can also conclude your planned lesson with an additional field on lesson status - done, postponed, cancelled, ghosted.</pre>
+<pre>You can plan a lesson with your student. You need to store your topics and lesson time to plan it.</pre>
+
+<pre>You can also conclude your planned lesson with an additional field on lesson status - done, postponed, cancelled, ghosted.</pre>
+
+<br><br>
+
+---
 
 <br><br>
 
@@ -96,6 +106,10 @@ In Teacher Page, you can display:
 
 <br><br>
 
+---
+
+<br><br>
+
 <code>Assign Tasks</code>
 
 <br>
@@ -107,6 +121,10 @@ In Teacher Page, you can display:
 <br>
 
 <pre>You can assign homeworks to your student.</pre>
+
+<br><br>
+
+---
 
 <br><br>
 
